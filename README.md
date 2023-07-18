@@ -1,2 +1,6 @@
-# debounce-react-input
-debounce action integrated for input with React functional component.
+debounce effect integrate with the input element using functional component. You can refer the
+component created in file DebounceReactInput.js
+
+## Live demo
+
+[https://stackblitz.com/](https://stackblitz.com/)
