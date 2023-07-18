@@ -26,6 +26,7 @@ const DebounceReactInput = ({ userList, setUserList }) => {
         type="search"
         placeholder="Search"
         aria-label="Search"
+        data-testid="debounceSearch"
         onChange={debouncedChangeHandler}
       />
     </div>
